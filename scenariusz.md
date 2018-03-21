@@ -16,3 +16,6 @@
 4. Commit z PyCharma, wpisujemy komentarz, konfiguracja gita (username, email)
 5. Modyfikujemy nasz plik i tworzymy kolejny. Tym razem go nie dodajemy do gita!
 6. Kolejny Commit, patrzymy na logi i do konsoli git
+
+## GitHub
+https://stackoverflow.com/questions/38549834/how-to-sign-out-in-git-bash-console-in-windows/38553149#38553149
