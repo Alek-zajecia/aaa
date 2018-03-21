@@ -13,4 +13,6 @@
 1. W Pycharmie stworzyć nowy projekt. (Uwaga! Trzeba uruchomić Pycharma, po instalacji Git'a)
 2. Wejście do terminala w Pycharmie i wpisać `git init`. (Jest to pierwsza i ostatnia komenda, którą musimy wpisać z konsoli)
 3. Tworzymy plik nowy plik, dodajemy do gita
-4. Commit z PyCharma
+4. Commit z PyCharma, wpisujemy komentarz, konfiguracja gita (username, email)
+5. Modyfikujemy nasz plik i tworzymy kolejny. Tym razem go nie dodajemy do gita!
+6. Kolejny Commit
