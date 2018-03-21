@@ -15,4 +15,4 @@
 3. Tworzymy plik nowy plik, dodajemy do gita
 4. Commit z PyCharma, wpisujemy komentarz, konfiguracja gita (username, email)
 5. Modyfikujemy nasz plik i tworzymy kolejny. Tym razem go nie dodajemy do gita!
-6. Kolejny Commit
+6. Kolejny Commit, patrzymy na logi i do konsoli git
